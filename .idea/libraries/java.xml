@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="java">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/controlsfx-11.2.0/controlsfx-samples/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/controlsfx-11.2.0/controlsfx/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/controlsfx-11.2.0/controlsfx/src/test/java" />
+      <root url="file://$USER_HOME$/Downloads/controlsfx-11.2.0/fxsampler/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
